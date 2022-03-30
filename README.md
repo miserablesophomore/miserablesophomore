@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miserablesophomore
-- 👀 I’m interested in music NFT 
+- 👀 I’m interested in kernel 
 - 🌱 I’m currently learning Catalysis, which is part of chemical engineering 
-- 💞️ I’m looking to collaborate on someone who is interested in combining nft(or web3 technology) with music industry 
+- 💞️ I’m looking to...(undecided)
 - 📫 How to reach me kthyung7@gmail.com
 
 <!---
