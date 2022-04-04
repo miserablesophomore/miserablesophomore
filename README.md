@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miserablesophomore
 - 👀 I’m interested in kernel 
-- 🌱 I’m currently learning Catalysis, which is part of chemical engineering 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to...(undecided)
 - 📫 How to reach me kthyung7@gmail.com
 
