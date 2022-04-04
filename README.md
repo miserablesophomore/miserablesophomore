@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miserablesophomore
+- 👋 Hi, I’m Chemical engineer of Seoul National University 
 - 👀 I’m interested in building a website on my own. 
 - 🌱 I’m currently learning python, functional programming, javascript, solidity...etc (everything that draws my attention) 
 - 💞️ I’m going to build my own domain service on a Polygon L2 with Buildspace project. (app.buildspace.so)
